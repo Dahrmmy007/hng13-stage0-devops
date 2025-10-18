@@ -13,9 +13,7 @@ The project demonstrates:
 - Proper version control and documentation practices  
 - Clear communication through well-structured repository content
   
-**Server IP/Domain:** (Add this after deployment)
-
-**Server URL:** http://13.49.241.144/
+**Server IP/Domain:** http://13.49.241.144/
 
 ## Deployment Details
 - Platform: AWS EC2
