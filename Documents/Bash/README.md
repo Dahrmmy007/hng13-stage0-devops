@@ -1,4 +1,4 @@
-d# HNG DevOps Stage 1 — Automated Deployment Script
+# HNG DevOps Stage 1 — Automated Deployment Script
 
 ## Description
 This script automates the setup, deployment, and configuration of a Dockerized application on a remote Linux server.  
